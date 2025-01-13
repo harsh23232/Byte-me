@@ -1,0 +1,13 @@
+testUser,correctPassword,false
+testUser,correctPassword,false
+testUser,correctPassword,false
+testUser,correctPassword,false
+testUser,correctPassword,false
+testUser,correctPassword,false
+testUser,correctPassword,false
+vipUser,vipPassword,true
+testUser,correctPassword,false
+vipUser,vipPassword,true
+testUser,correctPassword,false
+testUser,correctPassword,false
+testUser,correctPassword,false
